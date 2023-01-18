@@ -1,2 +1,2 @@
-# basicmoderl_code
+# basicmodel_code
 Here are some basic model codes I recorded in learning machine learning
